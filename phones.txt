@@ -2,4 +2,6 @@
 2) iphone 12
 3) Xiaomi p20
 4) Samsung
-
+5) Xiaomi p40
+6) Honor
+>>>>>>> f43ba0789bcdef6c248f4ef53030fd8710a0fbeb
